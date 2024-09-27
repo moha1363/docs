@@ -1,1 +1,0 @@
-Ao habilitar {% data variables.product.prodname_actions %}, os fluxos de trabalho poderão executar ações localizadas no seu repositório e em qualquer outro repositório {% ifversion fpt %} público{% elsif ghec or ghes %} público ou interno{% elsif ghae %} interno{% endif %}.
